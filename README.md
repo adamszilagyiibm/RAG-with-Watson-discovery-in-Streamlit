@@ -20,7 +20,8 @@ watsonDiscoveryAPIkey= watsondiscoveryAPIkey  <div style="page-break-after: alwa
 watsonDiscoveryURL= watsonURL  <div style="page-break-after: always;"></div>
 
 watsonDiscoveryproject_id= watsonProjectID  <div style="page-break-after: always;"></div>
-WatsonDisvoerycollection_ids= WatsonCollectionID  <div style="page-break-after: always;"></div>`
+WatsonDisvoerycollection_ids= WatsonCollectionID  <div style="page-break-after: always;"></div>
+`
 
 Run:
 
