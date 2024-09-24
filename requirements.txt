@@ -1,0 +1,13 @@
+ibm-generative-ai==0.1.15
+langchain==0.0.332
+streamlit==1.23.1
+pypdf
+sentence-transformers
+chromadb==0.5.3
+pydantic==1.10.11
+PyMuPDF==1.24.9
+ibm_watson_machine_learning==1.0.360
+python-pptx==1.0.2
+ibm-watson==8.1.0
+ibm-cloud-sdk-core==3.10.0
+pypi-json==0.4.0
