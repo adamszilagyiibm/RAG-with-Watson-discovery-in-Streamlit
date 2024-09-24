@@ -27,6 +27,8 @@ Run:
 
 `streamlit run demo_streamlit_RAG_WD.py
 `
+<div style="page-break-after: always;"></div>
 Use
+<div style="page-break-after: always;"></div>
 
 ask questions to documents uploaded to the Watson Discovery instance
